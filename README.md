@@ -26,7 +26,7 @@
 ## 💬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harleen-kaur-pama-635539251/)
-
+Gmail- harleenkaur8586@gmail.com
 ---
 
 ## 📫 How to Reach Me
