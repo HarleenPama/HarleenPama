@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Harleen Kaur Pama 👋
 
-## I'm a passionate Data Analyst eager to transform data into insights and pursue a career in Data Engineering 🚀
+## Passionate Data Analyst eager to transform data into insights and pursue a career in Data Engineering 🚀
 
 ---
 
@@ -25,9 +25,7 @@
 
 ## 💬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harleen-kaur-pama-635539251)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarleenPama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harleen-kaur-pama-635539251/)
 
 ---
 
