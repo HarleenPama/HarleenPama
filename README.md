@@ -30,6 +30,15 @@
 `Algorithms` • `Data Structures` • `Logical Thinking`
 
 ---
+## 📊 GitHub Stats
+
+![Harleen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarleenPama&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarleenPama&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HarleenPama&theme=radical&date_format=M%20j%5B%2C%20Y%5D)  
+![Profile Views](https://komarev.com/ghpvc/?username=HarleenPama&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
 
 ## 💬 Let's Connect
 
@@ -40,7 +49,9 @@
 
 ---
 
-> _“Data is the new oil, but refining it takes skill and vision.”_ ⚙️  
+> _“Data is the new oil, but refining it takes skill and vision.”_ ⚙️
+> 
+> _Let’s collaborate to turn data into action!_
 
 ---
 
