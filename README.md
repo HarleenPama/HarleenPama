@@ -15,7 +15,7 @@
 ## 🌟 Skills & Technologies
 
 **🔎 Data Analysis:**  
-`SQL` • `Excel` • `Power BI` • `Python (Pandas, NumPy)`
+`SQL` • `Excel` • `Power BI` • `Python `
 
 **⚙️ Data Engineering (Learning):**  
 `AWS` • `Google Cloud (GCP)` • `ETL Pipelines` • `Apache Airflow` • `Docker`
