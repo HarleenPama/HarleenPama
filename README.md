@@ -1,5 +1,5 @@
 # Hi there, I'm Harleen Kaur Pama 👋  
-🎯 Passionate **Data Analyst** eager to transform data into insights and grow into a **Data Engineer** 🚀
+🎯Passionate **Data Analyst** eager to transform data into insights and grow into a **Data Engineer** 🚀
 
 ---
 
