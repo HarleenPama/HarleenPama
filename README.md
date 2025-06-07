@@ -7,7 +7,7 @@
 
 🎓 Currently pursuing **B.Tech in Computer Science Engineering** at **VIT Bhopal**  
 💡 Deeply interested in **data-centric fields** with a focus on **problem-solving and logical thinking**  
-☁️ Learning **cloud platforms** and **modern data technologies** to become a skilled **Data Engineer**  
+☁️ Learning **Cloud platforms** and **modern data technologies** to become a skilled **Data Engineer**  
 🚀 Motivated to combine analytical skills with engineering to build **scalable, impactful data solutions**
 
 ---
