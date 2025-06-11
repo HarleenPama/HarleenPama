@@ -18,7 +18,7 @@
 `SQL` • `Excel` • `Power BI` • `Python `
 
 **⚙️ Data Engineering (Learning):**  
-`AWS` • `Google Cloud (GCP)` • `ETL Pipelines` • `Apache Airflow` • `Docker`
+`AWS` • `ETL Pipelines` • 
 
 **💻 Programming:**  
 `Python` • `C++`
