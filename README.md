@@ -28,16 +28,19 @@
 
 **🧠 Problem Solving:**  
 `Algorithms` • `Data Structures` • `Logical Thinking`
-
----
 ## 📊 GitHub Stats
 
-![Harleen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarleenPama&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarleenPama&layout=compact&theme=radical)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HarleenPama&theme=radical&date_format=M%20j%5B%2C%20Y%5D)  
-![Profile Views](https://komarev.com/ghpvc/?username=HarleenPama&label=Profile%20Views&color=0e75b6&style=flat)
+![Harleen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarleenPama&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&rank_icon=github)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarleenPama&layout=compact&theme=tokyonight&border_radius=10&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HarleenPama&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
+
+![Profile Views](https://komarev.com/ghpvc/?username=HarleenPama&label=Profile%20Views&color=1DA1F2&style=flat-square)
+
+</div>
 ---
 
 ## 💬 Let's Connect
