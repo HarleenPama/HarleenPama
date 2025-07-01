@@ -18,7 +18,7 @@
 `SQL` • `Excel` • `Power BI` • `Python `
 
 **⚙️ Data Engineering (Learning):**  
-`AWS` • `ETL Pipelines` • 
+`AWS` • `ETL Pipelines` 
 
 **💻 Programming:**  
 `Python` • `C++`
